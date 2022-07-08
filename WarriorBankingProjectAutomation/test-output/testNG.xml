@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Guru99 Bank Project">
+
+  <test name="Guru99 Bank Tests">
+      <classes>
+	  <class name="com.guru99bankproject.qa.testcases.LoginPageTest"/>
+	  <class name="com.guru99bankproject.qa.testcases.HomePageTest"/>
+      <class name="com.guru99bankproject.qa.testcases.DeleteCustomerTest"/>
+      </classes>
+  </test> <!-- Test --> 
+   
+</suite> <!-- Suite -->

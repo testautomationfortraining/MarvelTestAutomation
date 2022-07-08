@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-06T20:09:06 GMT-07:00" name="Guru99 Bank Project" finished-at="2022-07-06T20:16:34 GMT-07:00" duration-ms="447976">
+    <groups>
+    </groups>
+    <test started-at="2022-07-06T20:09:06 GMT-07:00" name="Guru99 Bank Tests" finished-at="2022-07-06T20:16:34 GMT-07:00" duration-ms="447976">
+      <class name="com.guru99bankproject.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:07 GMT-07:00" name="setUp" finished-at="2022-07-06T20:09:13 GMT-07:00" duration-ms="6161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateTitle()[pri:0, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:13 GMT-07:00" name="validateTitle" finished-at="2022-07-06T20:09:13 GMT-07:00" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:13 GMT-07:00" name="tearDown" finished-at="2022-07-06T20:09:13 GMT-07:00" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:13 GMT-07:00" name="setUp" finished-at="2022-07-06T20:09:19 GMT-07:00" duration-ms="5157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLogo()[pri:1, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:19 GMT-07:00" name="validateLogo" finished-at="2022-07-06T20:09:19 GMT-07:00" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:19 GMT-07:00" name="tearDown" finished-at="2022-07-06T20:09:19 GMT-07:00" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:19 GMT-07:00" name="setUp" finished-at="2022-07-06T20:09:25 GMT-07:00" duration-ms="5919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginToApp()[pri:2, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:25 GMT-07:00" name="loginToApp" finished-at="2022-07-06T20:09:28 GMT-07:00" duration-ms="2508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bankproject.qa.testcases.LoginPageTest@399f45b1]" started-at="2022-07-06T20:09:28 GMT-07:00" name="tearDown" finished-at="2022-07-06T20:09:29 GMT-07:00" duration-ms="922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99bankproject.qa.testcases.LoginPageTest -->
+      <class name="com.guru99bankproject.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:09:29 GMT-07:00" name="setUp" finished-at="2022-07-06T20:10:40 GMT-07:00" duration-ms="70892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateHomePageTitle()[pri:0, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:10:40 GMT-07:00" name="validateHomePageTitle" finished-at="2022-07-06T20:10:40 GMT-07:00" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:10:40 GMT-07:00" name="tearDown" finished-at="2022-07-06T20:10:41 GMT-07:00" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:10:41 GMT-07:00" name="setUp" finished-at="2022-07-06T20:11:52 GMT-07:00" duration-ms="71193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLogo()[pri:1, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:11:52 GMT-07:00" name="validateLogo" finished-at="2022-07-06T20:11:52 GMT-07:00" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:11:52 GMT-07:00" name="tearDown" finished-at="2022-07-06T20:11:53 GMT-07:00" duration-ms="940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:11:53 GMT-07:00" name="setUp" finished-at="2022-07-06T20:13:04 GMT-07:00" duration-ms="70827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToDeleteCustomerPage()[pri:2, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:13:04 GMT-07:00" name="navigateToDeleteCustomerPage" finished-at="2022-07-06T20:13:04 GMT-07:00" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToDeleteCustomerPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bankproject.qa.testcases.HomePageTest@293a5bf6]" started-at="2022-07-06T20:13:04 GMT-07:00" name="tearDown" finished-at="2022-07-06T20:13:05 GMT-07:00" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99bankproject.qa.testcases.HomePageTest -->
+      <class name="com.guru99bankproject.qa.testcases.DeleteCustomerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bankproject.qa.testcases.DeleteCustomerTest@6aeb35e6]" started-at="2022-07-06T20:13:05 GMT-07:00" name="setUp" finished-at="2022-07-06T20:14:17 GMT-07:00" duration-ms="72658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateTitle()[pri:0, instance:com.guru99bankproject.qa.testcases.DeleteCustomerTest@6aeb35e6]" started-at="2022-07-06T20:14:17 GMT-07:00" name="validateTitle" finished-at="2022-07-06T20:14:17 GMT-07:00" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bankproject.qa.testcases.DeleteCustomerTest@6aeb35e6]" started-at="2022-07-06T20:14:17 GMT-07:00" name="tearDown" finished-at="2022-07-06T20:14:18 GMT-07:00" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bankproject.qa.testcases.DeleteCustomerTest@6aeb35e6]" started-at="2022-07-06T20:14:18 GMT-07:00" name="setUp" finished-at="2022-07-06T20:16:34 GMT-07:00" duration-ms="135707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteCustomer()[pri:1, instance:com.guru99bankproject.qa.testcases.DeleteCustomerTest@6aeb35e6]" started-at="2022-07-06T20:16:34 GMT-07:00" name="deleteCustomer" finished-at="2022-07-06T20:16:34 GMT-07:00" duration-ms="32" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //input[@name='cusid']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'SRINIVASULU', ip: '192.168.29.41', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [f8ecc184-b7a7-4a11-9979-db641f361601, findElement {using=xpath, value=//input[@name='cusid']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:58927, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 56920, moz:profile: C:\Users\usrin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:58927/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f8ecc184-b7a7-4a11-9979-db641f361601]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@name='cusid']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'SRINIVASULU', ip: '192.168.29.41', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [f8ecc184-b7a7-4a11-9979-db641f361601, findElement {using=xpath, value=//input[@name='cusid']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:58927, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 56920, moz:profile: C:\Users\usrin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:58927/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f8ecc184-b7a7-4a11-9979-db641f361601
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:387)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:379)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy15.sendKeys(Unknown Source)
+at com.guru99bankproject.qa.pages.DeleteCustomerPage.deleteCustomer(DeleteCustomerPage.java:29)
+at com.guru99bankproject.qa.testcases.DeleteCustomerTest.deleteCustomer(DeleteCustomerTest.java:38)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bankproject.qa.testcases.DeleteCustomerTest@6aeb35e6]" started-at="2022-07-06T20:16:34 GMT-07:00" name="tearDown" finished-at="2022-07-06T20:16:34 GMT-07:00" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99bankproject.qa.testcases.DeleteCustomerTest -->
+    </test> <!-- Guru99 Bank Tests -->
+  </suite> <!-- Guru99 Bank Project -->
+</testng-results>
